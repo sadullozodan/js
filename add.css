@@ -1,0 +1,38 @@
+.tr,td,th{
+    padding: 6px;
+    border: 1px solid grey;
+    border-radius: 7px;
+    width: 50px;
+    font-size: 30px;
+}
+.n1{
+  border: 1px solid grey;
+  border-collapse: collapse;
+  width: 400px;
+  height: 200px;
+}
+.form{
+  width: 200px;
+  height: 200px;
+  gap: 100px;
+  margin-right: 300px;
+}
+.add1{
+   height: 40px;
+   width: 190px;
+   margin-bottom: 30px;
+}
+.add2{
+   height: 40px;
+   width: 190px;
+   margin-bottom: 30px;
+}
+.add3{
+  width: 80px;
+  font-size: 20px;
+  margin-left: 16px;
+} 
+.add{
+  width: 80px;
+  font-size: 20px;
+}
